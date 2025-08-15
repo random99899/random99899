@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- ⚡ More: [![LeetCode](https://img.shields.io/badge/LeetCode-我的刷题主页-orange?logo=leetcode)](https://leetcode.cn/u/random99/)
-
+- ⚡ Blog:https://www.loyce030.xyz
+- ⚡ Leetcode:https://leetcode.cn/u/random99
 
 ---
 
