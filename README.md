@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FFB6C1&lines=Hi+there!+👋;Welcome+to+my+GitHub!;Enjoy+your+stay+here!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- ⚡ Blog:https://www.loyce030.xyz
 - ⚡ Leetcode:https://leetcode.cn/u/random99
 
 ---
