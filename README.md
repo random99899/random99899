@@ -20,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/Language-HTML5-orange)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-purple)
-![Windows](https://img.shields.io/badge/OS-Windows11-lightgrey)
 
 
 
