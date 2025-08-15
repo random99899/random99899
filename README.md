@@ -1,11 +1,31 @@
-## Hi there 👋
-
-<!--
-**random99899/random99899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+<!-- 动态打字机标题 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FFB6C1&lines=Hi+there!+👋;Welcome+to+my+GitHub!;Enjoy+your+stay+here!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+
+---
+
+## 📊 GitHub 数据统计
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=random99899&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random99899&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 技术栈
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![C](https://img.shields.io/badge/Language-C-green)
+![HTML5](https://img.shields.io/badge/Language-HTML5-orange)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![VSCode](https://img.shields.io/badge/IDE-VSCode-purple)
+![Windows](https://img.shields.io/badge/OS-Windows11-lightgrey)
+
+---
+
+## 👀 访客计数
+![Visitor Count](https://komarev.com/ghpvc/?username=random99899&color=blue)
+
+
