@@ -1,13 +1,6 @@
-<!-- 动态打字机标题 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FFB6C1&lines=Hi+there!+👋;Welcome+to+my+GitHub!;Enjoy+your+stay+here!)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning python
 - ⚡ Leetcode:https://leetcode.cn/u/random99
-
----
-
-## 📊 GitHub 数据统计
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=random99899&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random99899&layout=compact&theme=tokyonight)
 
 ---
 
